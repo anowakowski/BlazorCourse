@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorCourseHRM.App", "BlazorCourseHRM.App\BlazorCourseHRM.App.csproj", "{1FD3650E-FC66-449F-AD28-A3F63A6E46EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FD3650E-FC66-449F-AD28-A3F63A6E46EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FD3650E-FC66-449F-AD28-A3F63A6E46EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FD3650E-FC66-449F-AD28-A3F63A6E46EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FD3650E-FC66-449F-AD28-A3F63A6E46EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0BE73B9-C8F7-4795-B6CC-20C6A2647BDB}
+	EndGlobalSection
+EndGlobal
